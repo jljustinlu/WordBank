@@ -1,5 +1,5 @@
 body {
-	font-family: Georgia;
+	font-family: Verdana;
 	background: black;
 }
 
@@ -13,13 +13,10 @@ nav {
 	word-spacing: 5px;
 }
 
-div {
+ul, div {
 	border: 1px solid white;
 }
 
-ul {
-	border: 1px solid white;
-}
 
 h1 {
 	color: white;
@@ -28,4 +25,8 @@ h1 {
 
 h2, li, p {
 	color: white;
+}
+
+h2 {
+	text-align: center;
 }
